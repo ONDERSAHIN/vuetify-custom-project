@@ -1,6 +1,6 @@
-# idenfit
+# custom project
 
-> idenfit client application
+> client application
 
 ## Build Setup
 
